@@ -1,5 +1,6 @@
 var test1 = 888;
 var test2 = 999;
+global.test3 = 1010;
 function fn1(){
     console.log("fn1");
 }
