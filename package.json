@@ -1,10 +1,10 @@
 {
   "name": "js_node_01",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +12,15 @@
   "dependencies": {
     "express": "^4.18.2",
     "jquery": "^3.6.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qzd1226/js_node_01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qzd1226/js_node_01/issues"
+  },
+  "homepage": "https://github.com/qzd1226/js_node_01#readme",
+  "description": ""
 }
